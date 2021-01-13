@@ -1,1 +1,1 @@
-git+http://github.com/Rapptxz/discord.py@rewrite
+git+http://Rapptxz/discord.py@rewrite
